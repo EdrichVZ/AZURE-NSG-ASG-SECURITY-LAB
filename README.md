@@ -9,7 +9,7 @@ The lab focuses on configuring inbound security rules, workload segmentation, an
 
 (The project was completed as part of hands-on preparation for the AZ-500: Azure Security Engineer Associate certification).
 
-## Objectives:
+## Objectives(Completed):
 
 - Created an Azure Virtual Network
 - Configured Network Security Groups (NSGs)
