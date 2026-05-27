@@ -21,7 +21,7 @@ The lab focuses on configuring inbound security rules, workload segmentation, an
 - Tested secure network connectivity
 - Implemented layered network security controls
 
-## Technologies Used
+## Technologies Used:
 - Microsoft Azure
 - Azure Virtual Network
 - Network Security Groups (NSGs)
